@@ -48,6 +48,7 @@ def parse_args():
                                                              'в лотерею через пробел')
     return parser.parse_args()
 
+# пример запуска командной строкой: python DZ15/task1.py -list_a='3 12 8 41 7 21 9 14 5 30' -list_b='9 5 6 12 14 22 17 41 8 3'
 
 if __name__ == '__main__':
 
